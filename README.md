@@ -9,7 +9,7 @@ int main(){
 	long rumus_total; 
 
 	
-	//input//
+	
 	cin>>jumlah_bitcoin;
 	cin>>harga_pembelian;
 	cin>>harga_saat_ini;
@@ -22,7 +22,7 @@ int main(){
 	
 	
 	
-	//output//
+	
 	cout<< "kenaikan/penurunan  : "<< rumus_persen << " " << "%"   << endl;
 	cout<< "keuntungan/kerugian : "<< rumus_total  << " " << "juta" << endl;
 	
