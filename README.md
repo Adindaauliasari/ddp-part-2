@@ -20,9 +20,6 @@ int main(){
 	rumus_persen = ((harga_saat_ini - harga_pembelian)/harga_pembelian)*100;
 	
 	
-	
-	
-	
 	cout<< "kenaikan/penurunan  : "<< rumus_persen << " " << "%"   << endl;
 	cout<< "keuntungan/kerugian : "<< rumus_total  << " " << "juta" << endl;
 	
