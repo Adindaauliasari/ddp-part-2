@@ -5,7 +5,10 @@ using namespace std;
 int main(){
    	
 	
-	float  jumlah_bitcoin , harga_pembelian , harga_saat_ini, rumus_persen ;
+	float  jumlah_bitcoin ;
+	float harga_pembelian ;
+	float harga_saat_ini;
+	float rumus_persen ;
 	long rumus_total; 
 
 	
