@@ -10,6 +10,7 @@ int main()
 	float harga_pembelian ;
 	float harga_saat_ini;
 	float rumus_persen ;
+	
 	long rumus_total; 
 
 	
