@@ -1,6 +1,6 @@
 #include "iostream"
 
-using namespace std;
+using namespace std ;
 
 int main ()
 
@@ -17,7 +17,7 @@ int main ()
 	cin>>jumlah_bitcoin;
 	cin>>harga_pembelian;
 	cin>>harga_saat_ini;
-	cout<< " "<< endl;
+	cout<< " " << endl;
 	
 	
 	rumus_total = (harga_saat_ini - harga_pembelian);
