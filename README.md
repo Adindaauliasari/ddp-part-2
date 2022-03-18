@@ -14,9 +14,9 @@ int main ()
 
 	
 	
-	cin>>jumlah_bitcoin;
-	cin>>harga_pembelian;
-	cin>>harga_saat_ini;
+	cin>> jumlah_bitcoin;
+	cin>> harga_pembelian;
+	cin>> harga_saat_ini;
 	
 	cout<< " " << endl;
 	
