@@ -5,7 +5,6 @@ using namespace std ;
 int main ()
 
 {	
-	
 	float  jumlah_bitcoin ;
 	float harga_pembelian ;
 	float harga_saat_ini;
